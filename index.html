@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Project 2: Web App</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="./styles.css">
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <script defer src="./script.js"></script>
+    </head>
+    <body>
+        
+        <h1>Top 10 Breweries in Rochester, NY</h1>
+        <button id="showFavBtn" class="display-btn" style="display:inline;" onPointerDown="displayFavorites();">View favorites</button>
+        <button id="viewAllBtn" class="display-btn" style="display:none;" onPointerDown="displayAll();">View All</button>
+        <div id="overlay"></div>
+        <div id="container" class="container"> 
+        </div>
+    </body>
+</html>

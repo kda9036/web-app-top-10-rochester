@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "K2 Brothers Brewing",
+        "imageUrl": "https://static.wixstatic.com/media/73408a_d06c48a935bc462b83828d982bdd0cdd~mv2.png/v1/fit/w_2500,h_1330,al_c/73408a_d06c48a935bc462b83828d982bdd0cdd~mv2.png",
+        "imageAlt": "logo with pints of beer behind",
+        "description": "K2 Brothers Brewing is a NYS Farm/Micro Brewery in Penfield, NY, which opened December of 2017. It is owned and operated by brothers Kyle and Bradley Kennedy, with the support of their family and friends.",
+        "address": "1221 Empire Blvd, Rochester, NY 14609",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2909.66372460945!2d-77.52409428788745!3d43.174582383133774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6ca2de373e03d%3A0xeb3a7d1100e55841!2sK2%20Brothers%20Brewing!5e0!3m2!1sen!2sus!4v1696799455165!5m2!1sen!2sus",
+        "hours": ["Tuesday - Thursday: 12pm - 10pm", "Friday-Saturday: 12pm - 11pm", "Sunday: 10am - 5pm", "Closed Mondays"],
+        "website": "https://www.k2brewing.com/",
+        "phone": "(585) 413-1997"
+    },
+    {
+        "id": 2,
+        "title": "Fifth Frame Brewing Co.",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/572f8b5eab48de6f4235f1bf/1515297068400-CRBT8YFDU38GO4ZZM9MT/brewery_tanks.jpeg?format=1500w",
+        "imageAlt": "a glass of beer with fifth frame brewing co printed on it",
+        "description": "A Rochester NY microbrewery in downtown featuring craft beer, specialty coffee, and an open kitchen serving breakfast, lunch and dinner food.",
+        "address": "155 St Paul St, Rochester, NY 14604",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2910.3595556519977!2d-77.61290362345315!3d43.159976284190854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b4537ef71d79%3A0xf53548da0b2212e8!2sFifth%20Frame%20Brewing%20Co.!5e0!3m2!1sen!2sus!4v1696810065931!5m2!1sen!2sus",
+        "hours": ["Monday-Tuesday: Closed", "Wednesday - Friday: 4 - 9pm", "Saturday: 12 - 3pm, 4 - 9pm", "Sunday: 12 - 3pm"],
+        "website": "https://fifthframe.co/",
+        "phone": "(585) 735-7155"
+    },
+    {
+        "id": 3,
+        "title": "Swift Water Brewing",
+        "imageUrl": "https://swiftwaterbrewing.com/wp-content/uploads/2021/06/Swiftwater-21-edited-1024x747.jpg",
+        "imageAlt": "bar area at Swift Water Brewing",
+        "description": "We’re located on Mount Hope Ave. with indoor and outdoor space to enjoy. When visiting the taproom, you’ll see the heart of Swiftwater in every detail, and we hope you’ll enjoy our beer just as much as we love making it!",
+        "address": "378 Mt Hope Ave, Rochester, NY 14620",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2911.195730828458!2d-77.61452272345386!3d43.142418985316155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b4e3bc45bf41%3A0x29c2fdf45499223e!2sSwiftwater%20Brewing%20Company!5e0!3m2!1sen!2sus!4v1696807796149!5m2!1sen!2sus",
+        "hours": ["Monday: Closed", "Tuesday: 6pm - 10pm (Trivia at 7)", "Wednesday: 12pm - 10pm", "Thursday: 12pm - 10pm", "Friday: 12pm - 11pm", "Saturday: 12pm - 11pm", "Sunday: Closed"],
+        "website": "https://swiftwaterbrewing.com/",
+        "phone": "(585) 530-3471"
+    },
+    {
+        "id": 4,
+        "title": "Genesee Brewing Co.",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/05/36/4d/eb/genesee-brew-house.jpg",
+        "imageAlt": "outside of Genesee Brew House",
+        "description": "The Genesee Brewing Company, based in Rochester, New York, is one of the largest and oldest continually operating breweries in the United States. The Brewery makes the Genesee line of beers, including the iconic Genesee, the refreshing Genny Light, and The Original Cream Ale.",
+        "address": "25 Cataract St, Rochester, NY 14605",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2910.185516773708!2d-77.61723372345304!3d43.16362988395645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b451f5595eb1%3A0x497a617064cf707b!2sGenesee%20Brew%20House!5e0!3m2!1sen!2sus!4v1696810276913!5m2!1sen!2sus",
+        "hours": ["Monday - Thursday: 11am - 10pm", "Friday & Saturday: 11am - 11pm", "Sunday: 11am - 10pm"],
+        "website": "https://www.geneseebeer.com/",
+        "phone": "(585) 263-9200"
+    },
+    {
+        "id": 5,
+        "title": "Nine Maidens Brewing Company",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5acf86603e2d098fa4ec7635/1632422072033-OJ49VLUD33JP4A28NQ1S/IMG_2923.jpg?format=2500w",
+        "imageAlt": "bar area at Nine Maidens",
+        "description": "Our aim is to provide the Rochester beer scene with a range of beer styles, from trendy to historica.",
+        "address": "1344 University Ave, Suite 140, Rochester, NY 14607",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2910.813721293182!2d-77.57125630971547!3d43.1504408103745!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b581daf8930b%3A0x9f4b7b4939f8a559!2sNine%20Maidens%20Brewing%20Company!5e0!3m2!1sen!2sus!4v1696814644609!5m2!1sen!2sus",
+        "hours": ["Wednesday: 5 - 9pm", "Thursday: 5 - 9pm", "Friday: 4 - 11pm", "Saturday: 2 - 11pm", "Sunday: 12 - 4pm", "Monday: Closed", "Tuesday: Closed "],
+        "website": "https://ninemaidensbrewing.com/",
+        "phone": "(585) 434-3030"
+    },
+    {
+        "id": 6,
+        "title": "Rohrbach Brewing Company",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5a79dfb8e45a7c67d33917b0/1652195019463-KTIO01P4ILETA6J9KHOP/IMG_3071.jpeg?format=2500w",
+        "imageAlt": "flight of full pint glasses of beer",
+        "description": "Founded in 1991 by John and Patty Urlaub, Rohrbach Brewing Co. is the first craft brewery in Rochester, NY. The brewing company takes its name from Rohrbach, Germany, a small town that inspired its founder to bring craft beer to Rochester. The company first originated in the German House on Gregory Street, then grew into the two restaurant locations existing today - the brewery and beer hall in downtown Rochester on Railroad St. and the Buffalo Road Brewpub Restaurant in Gates. ",
+        "address": "97 Railroad St, Rochester, NY 14609",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d46573.00092780368!2d-77.71556657499252!3d43.15046523681664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b5bd1802c627%3A0x8d2204686ae9da39!2sRohrbach%20Brewing%20Co.%20Railroad%20Street%20Beer%20Hall!5e0!3m2!1sen!2sus!4v1696814922012!5m2!1sen!2sus",
+        "hours": ["Wednesday - Friday: 4pm - 10pm", "Saturday: 10am - 10pm"],
+        "website": "https://www.rohrbachs.com/",
+        "phone": "(585) 546-8020"
+    },
+    {
+        "id": 7,
+        "title": "Three Heads Brewing",
+        "imageUrl": "https://threeheadsbrewing.com/wp-content/uploads/2016/08/beer-garden-image.jpg",
+        "imageAlt": "Three Heads logo on outside of building",
+        "description": "The Three Heads Brewing Beer Garden on Atlantic Avenue in Rochester is where it all goes down. You can enjoy all your 3HB favorites straight from the source.  Beer just doesn’t come any fresher than this. Come in to try our rotating seasonal craft brew offerings, rotating food truck options or to enjoy some weekly live music.  Plus we have a patio that rivals any other in the city. Three Heads Brewing….we don’t just know beer, we live it.",
+        "address": "186 Atlantic Ave, Rochester, NY 14607",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2910.53979242813!2d-77.5844532097139!3d43.15619231000476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b59951738adf%3A0x6168b2d17d047a18!2sThree%20Heads%20Brewing!5e0!3m2!1sen!2sus!4v1696815452401!5m2!1sen!2sus",
+        "hours": ["Monday: 2 - 9pm", "Tuesday: 2 - 9pm", "Wednesday: 2 - 9pm", "Thursday: 2 - 9pm", "Friday: 12 - 11pm", "Saturday: 12 - 11pm", "Sunday: 1 - 5pm"],
+        "website": "https://threeheadsbrewing.com/",
+        "phone": "(585) 244-1224"
+    },
+    {
+        "id": 8,
+        "title": "Irondequoit Beer Company",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1b/08/c5/40/bar.jpg",
+        "imageAlt": "bar area at Irondequoit Beer Company",
+        "description": "Our story begins with an old hidden treasure within the Town of Irondequoit in Upstate NY. A barn, where generations once farmed their land with grit and sweat, was sitting empty and unseen. We wanted to continue that tradition of taking Nature’s harvest and produce something that we could be proud of. So we brought this little barn back to life and we are honored to give Irondequoit their first brewery.",
+        "address": "765 Titus Ave, Rochester, NY 14617",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2907.961665033625!2d-77.59843062345121!3d43.21029338096354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b7b6daeaec21%3A0xd49a6e2aa52fd1f1!2sIrondequoit%20Beer%20Company!5e0!3m2!1sen!2sus!4v1696815733353!5m2!1sen!2sus",
+        "hours": ["MON - TUES: Closed", "WED: 3 - 10PM", "THURS: 3 - 10PM", "FRI: 12 - 10PM", "SAT: 12 - 10PM", "SUN: 11 - 7PM", "Kitchen Closes One Hour Prior"],
+        "website": "https://irondequoitbeercompany.com/",
+        "phone": "(585) 544-3670"
+    },
+    {
+        "id": 9,
+        "title": "Iron Tug Brewing",
+        "imageUrl": "https://images.squarespace-cdn.com/content/v1/5cfc26913dbb080001aa66ee/1629485408071-SNANT5J2XH6R5L9DJZ8H/it.jpeg",
+        "imageAlt": "Iron Tug Brewing logo featuring a tug boat",
+        "description": "Founded in 2016, Iron Tug Brewing owes its unique name to a merchant marine turned craft brewer. ITB strives to brew an inspiring array of thoughtful, sophisticated, and supremely drinkable beers locally in Rochester, NY. Partnering with nearby farms and using only the freshest ingredients, ITB’s custom creations continue to gather a loyal following. Enjoy one if by land, two if by sea.",
+        "address": "371 Park Ave, Rochester, NY 14607",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2910.8503933659726!2d-77.58857712345359!3d43.149670784851395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b6a6b506a00b%3A0xda9a6d0796b91c0c!2sIron%20Tug%20Brewing!5e0!3m2!1sen!2sus!4v1696816068129!5m2!1sen!2sus",
+        "hours": ["Monday 4 pm - 9 pm", "Tuesday 4 pm - 9 pm", "Wednesday 4 pm - 9 pm", "Thursday 4 pm - 9 pm", "Friday 2 pm - 11 pm", "Saturday 12 pm - 11 pm", "Sunday 12 pm - 8 pm"],
+        "website": "https://www.irontugbrewing.com/",
+        "phone": "(585) 738-5606"
+    },
+    {
+        "id": 10,
+        "title": "Sager-Stoneyard Pub",
+        "imageUrl": "https://assets.simpleviewinc.com/simpleview/image/upload/crm/rochester/Beer-line-up-a0ff37865056a36_a0ff3923-5056-a36a-09d71d178bc6ca05.jpg",
+        "imageAlt": "beer glasses with Sager label and filled with different shades of beer",
+        "description": "Formerly known as the Sager Beer Works Taproom, we are Rochester’s first dual-brewery pub.",
+        "address": "46 Sager Dr Suite E, Rochester, NY 14607",
+        "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2910.808431387173!2d-77.57240692345349!3d43.15055188479492!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d6b539fde38efd%3A0xf0a6bff949fed831!2sSager-Stoneyard%20Pub!5e0!3m2!1sen!2sus!4v1696816426439!5m2!1sen!2sus",
+        "hours": ["Mon - Thurs: 4pm - 9pm", " Friday: 4pm - 10pm", "Saturday: 12pm - 10pm", "Sunday: 1pm - 7pm"],
+        "website": "https://sagerbeerworks.com/",
+        "phone": "(585) 417-5404"
+    }
+]
